@@ -13,6 +13,21 @@
 		798217A42C09498200611781 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 798217A22C09498200611781 /* Main.storyboard */; };
 		798217A62C09498300611781 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 798217A52C09498300611781 /* Assets.xcassets */; };
 		798217A92C09498300611781 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 798217A72C09498300611781 /* LaunchScreen.storyboard */; };
+		798217B12C094F9300611781 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798217B02C094F9300611781 /* GameScene.swift */; };
+		798217BB2C095DC300611781 /* MPLUSRounded1c-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 798217B32C095DC300611781 /* MPLUSRounded1c-Thin.ttf */; };
+		798217BC2C095DC300611781 /* MPLUSRounded1c-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 798217B42C095DC300611781 /* MPLUSRounded1c-Bold.ttf */; };
+		798217BD2C095DC300611781 /* MPLUSRounded1c-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 798217B52C095DC300611781 /* MPLUSRounded1c-ExtraBold.ttf */; };
+		798217BE2C095DC300611781 /* MPLUSRounded1c-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 798217B62C095DC300611781 /* MPLUSRounded1c-Light.ttf */; };
+		798217BF2C095DC300611781 /* MPLUSRounded1c-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 798217B72C095DC300611781 /* MPLUSRounded1c-Black.ttf */; };
+		798217C02C095DC300611781 /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 798217B82C095DC300611781 /* OFL.txt */; };
+		798217C12C095DC300611781 /* MPLUSRounded1c-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 798217B92C095DC300611781 /* MPLUSRounded1c-Medium.ttf */; };
+		798217C22C095DC300611781 /* MPLUSRounded1c-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 798217BA2C095DC300611781 /* MPLUSRounded1c-Regular.ttf */; };
+		798217C62C09AAA300611781 /* SoundBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798217C52C09AAA300611781 /* SoundBox.swift */; };
+		798217CF2C09B4C300611781 /* morse code.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 798217CE2C09B33400611781 /* morse code.mp3 */; };
+		798217D02C09B4C700611781 /* Cuckoo Clock Sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 798217CD2C09B33400611781 /* Cuckoo Clock Sound.mp3 */; };
+		798217F12C09DCFF00611781 /* _ mac chime.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 798217F02C09DCFF00611781 /* _ mac chime.mp3 */; };
+		798217F32C09DD0600611781 /* forest ambience.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 798217F22C09DD0600611781 /* forest ambience.mp3 */; };
+		798217F52C09DD0B00611781 /* Shopping Mall, snack.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 798217F42C09DD0B00611781 /* Shopping Mall, snack.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +39,23 @@
 		798217A52C09498300611781 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		798217A82C09498300611781 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		798217AA2C09498300611781 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		798217B02C094F9300611781 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		798217B32C095DC300611781 /* MPLUSRounded1c-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MPLUSRounded1c-Thin.ttf"; sourceTree = "<group>"; };
+		798217B42C095DC300611781 /* MPLUSRounded1c-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MPLUSRounded1c-Bold.ttf"; sourceTree = "<group>"; };
+		798217B52C095DC300611781 /* MPLUSRounded1c-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MPLUSRounded1c-ExtraBold.ttf"; sourceTree = "<group>"; };
+		798217B62C095DC300611781 /* MPLUSRounded1c-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MPLUSRounded1c-Light.ttf"; sourceTree = "<group>"; };
+		798217B72C095DC300611781 /* MPLUSRounded1c-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MPLUSRounded1c-Black.ttf"; sourceTree = "<group>"; };
+		798217B82C095DC300611781 /* OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		798217B92C095DC300611781 /* MPLUSRounded1c-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MPLUSRounded1c-Medium.ttf"; sourceTree = "<group>"; };
+		798217BA2C095DC300611781 /* MPLUSRounded1c-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MPLUSRounded1c-Regular.ttf"; sourceTree = "<group>"; };
+		798217C52C09AAA300611781 /* SoundBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundBox.swift; sourceTree = "<group>"; };
+		798217C82C09B33000611781 /* morse code.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "morse code.mp3"; sourceTree = "<group>"; };
+		798217C92C09B33000611781 /* Cuckoo Clock Sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Cuckoo Clock Sound.mp3"; sourceTree = "<group>"; };
+		798217CD2C09B33400611781 /* Cuckoo Clock Sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Cuckoo Clock Sound.mp3"; sourceTree = "<group>"; };
+		798217CE2C09B33400611781 /* morse code.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "morse code.mp3"; sourceTree = "<group>"; };
+		798217F02C09DCFF00611781 /* _ mac chime.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "_ mac chime.mp3"; sourceTree = "<group>"; };
+		798217F22C09DD0600611781 /* forest ambience.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "forest ambience.mp3"; sourceTree = "<group>"; };
+		798217F42C09DD0B00611781 /* Shopping Mall, snack.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Shopping Mall, snack.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +88,58 @@
 		7982179B2C09498200611781 /* FlappyBird */ = {
 			isa = PBXGroup;
 			children = (
+				798217B02C094F9300611781 /* GameScene.swift */,
 				7982179C2C09498200611781 /* AppDelegate.swift */,
 				7982179E2C09498200611781 /* SceneDelegate.swift */,
+				798217C52C09AAA300611781 /* SoundBox.swift */,
 				798217A02C09498200611781 /* ViewController.swift */,
 				798217A22C09498200611781 /* Main.storyboard */,
 				798217A52C09498300611781 /* Assets.xcassets */,
 				798217A72C09498300611781 /* LaunchScreen.storyboard */,
 				798217AA2C09498300611781 /* Info.plist */,
+				798217CC2C09B33400611781 /* Unknown Album */,
+				798217B22C095DC300611781 /* CustomFonts */,
 			);
 			path = FlappyBird;
+			sourceTree = "<group>";
+		};
+		798217B22C095DC300611781 /* CustomFonts */ = {
+			isa = PBXGroup;
+			children = (
+				798217B32C095DC300611781 /* MPLUSRounded1c-Thin.ttf */,
+				798217B42C095DC300611781 /* MPLUSRounded1c-Bold.ttf */,
+				798217B52C095DC300611781 /* MPLUSRounded1c-ExtraBold.ttf */,
+				798217B62C095DC300611781 /* MPLUSRounded1c-Light.ttf */,
+				798217B72C095DC300611781 /* MPLUSRounded1c-Black.ttf */,
+				798217B82C095DC300611781 /* OFL.txt */,
+				798217B92C095DC300611781 /* MPLUSRounded1c-Medium.ttf */,
+				798217BA2C095DC300611781 /* MPLUSRounded1c-Regular.ttf */,
+				798217C72C09B33000611781 /* Unknown Album */,
+			);
+			name = CustomFonts;
+			path = ../../../../Downloads/CustomFonts;
+			sourceTree = "<group>";
+		};
+		798217C72C09B33000611781 /* Unknown Album */ = {
+			isa = PBXGroup;
+			children = (
+				798217C82C09B33000611781 /* morse code.mp3 */,
+				798217C92C09B33000611781 /* Cuckoo Clock Sound.mp3 */,
+			);
+			name = "Unknown Album";
+			path = "../../Music/Music/Media.localized/Music/SoundBible.com/Unknown Album";
+			sourceTree = "<group>";
+		};
+		798217CC2C09B33400611781 /* Unknown Album */ = {
+			isa = PBXGroup;
+			children = (
+				798217F42C09DD0B00611781 /* Shopping Mall, snack.mp3 */,
+				798217F22C09DD0600611781 /* forest ambience.mp3 */,
+				798217F02C09DCFF00611781 /* _ mac chime.mp3 */,
+				798217CE2C09B33400611781 /* morse code.mp3 */,
+				798217CD2C09B33400611781 /* Cuckoo Clock Sound.mp3 */,
+			);
+			path = "Unknown Album";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +200,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				798217F52C09DD0B00611781 /* Shopping Mall, snack.mp3 in Resources */,
 				798217A92C09498300611781 /* LaunchScreen.storyboard in Resources */,
+				798217D02C09B4C700611781 /* Cuckoo Clock Sound.mp3 in Resources */,
+				798217BC2C095DC300611781 /* MPLUSRounded1c-Bold.ttf in Resources */,
+				798217CF2C09B4C300611781 /* morse code.mp3 in Resources */,
+				798217BE2C095DC300611781 /* MPLUSRounded1c-Light.ttf in Resources */,
+				798217F12C09DCFF00611781 /* _ mac chime.mp3 in Resources */,
+				798217C02C095DC300611781 /* OFL.txt in Resources */,
+				798217BD2C095DC300611781 /* MPLUSRounded1c-ExtraBold.ttf in Resources */,
+				798217C12C095DC300611781 /* MPLUSRounded1c-Medium.ttf in Resources */,
+				798217BF2C095DC300611781 /* MPLUSRounded1c-Black.ttf in Resources */,
+				798217C22C095DC300611781 /* MPLUSRounded1c-Regular.ttf in Resources */,
+				798217BB2C095DC300611781 /* MPLUSRounded1c-Thin.ttf in Resources */,
 				798217A62C09498300611781 /* Assets.xcassets in Resources */,
 				798217A42C09498200611781 /* Main.storyboard in Resources */,
+				798217F32C09DD0600611781 /* forest ambience.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,7 +227,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				798217A12C09498200611781 /* ViewController.swift in Sources */,
+				798217C62C09AAA300611781 /* SoundBox.swift in Sources */,
 				7982179D2C09498200611781 /* AppDelegate.swift in Sources */,
+				798217B12C094F9300611781 /* GameScene.swift in Sources */,
 				7982179F2C09498200611781 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -292,8 +382,9 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -301,9 +392,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.toro.kagayaki.FlappyBird;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -319,8 +413,9 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -328,9 +423,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.toro.kagayaki.FlappyBird;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
